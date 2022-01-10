@@ -1,0 +1,10 @@
+.containerleft:hover{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 20px;
+    height: 20px;
+    margin-left: 3px;
+    cursor: pointer;
+}
